@@ -1,0 +1,9 @@
+# SPINS 통합 HMI 실행용 기본 의존성
+# 다른 PC에서는 이 파일만 설치해도 UI 실행이 가능하도록 구성합니다.
+
+pyserial>=3.5,<4
+opencv-python>=4.9,<5
+PyQt6>=6.6,<7
+ultralytics>=8.2,<9
+supervision>=0.21,<1
+onnxruntime>=1.17,<2

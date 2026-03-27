@@ -1,0 +1,5 @@
+# 학습/데이터셋 작업까지 포함하는 추가 의존성
+# train.py를 사용할 경우 기본 requirements.txt 위에 이 파일을 설치합니다.
+
+-r requirements.txt
+roboflow>=1.1,<2

@@ -1,0 +1,15 @@
+# Python cache / virtual environment
+venv/
+__pycache__/
+*.py[cod]
+
+# Training outputs and datasets
+runs/
+Cross_Alignment_Project-1/
+*.pt
+
+# Local tooling / OS artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
